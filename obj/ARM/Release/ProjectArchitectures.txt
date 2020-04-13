@@ -1,0 +1,1 @@
+E:\DeveloperProjects\HomeAutomation\HomeAutomation\HomeAutomation.LightingSystem.LocalServer\HomeAutomation.LightingSystem.LocalServer.csproj;arm

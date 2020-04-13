@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\BartlomiejLeja\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\tools\ARM\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"E:\DeveloperProjects\HomeAutomation\HomeAutomation\HomeAutomation.LightingSystem.LocalServer\obj\ARM\Release\ilc\intermediate\MDIL\HomeAutomation.LightingSystem.LocalServer-uwp.mdilexe"
+"/i:E:\DeveloperProjects\HomeAutomation\HomeAutomation\HomeAutomation.LightingSystem.LocalServer\obj\ARM\Release\ilc\intermediate\MDIL"
+"/out:E:\DeveloperProjects\HomeAutomation\HomeAutomation\HomeAutomation.LightingSystem.LocalServer\obj\ARM\Release\ilc\intermediate\Native\HomeAutomation.LightingSystem.LocalServer-uwp.exe"
+"/pdbAltPath:E:\DeveloperProjects\HomeAutomation\HomeAutomation\HomeAutomation.LightingSystem.LocalServer\bin\ARM\Release\ilc"
+"/res:E:\DeveloperProjects\HomeAutomation\HomeAutomation\HomeAutomation.LightingSystem.LocalServer\obj\ARM\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\BartlomiejLeja\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

@@ -1,0 +1,2 @@
+RedBear.LogDNA, Version=2.1.1780.0, Culture=neutral, PublicKeyToken=null
+  RedBear.LogDNA.Properties.Resources.resources
